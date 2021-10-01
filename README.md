@@ -1,6 +1,5 @@
 # game-of-life
-
-game-of-life is a C program which initializes and runs a simulation of Conway's Game of Life
+C program which initializes and runs a simulation of Conway's Game of Life
 
 ## Initialization
 
