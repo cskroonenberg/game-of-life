@@ -1,5 +1,6 @@
 # game-of-life
-C program which initializes and runs a simulation of Conway's Game of Life
+C program which initializes and runs a simulation of Conway's Game of Life.
+Simulation is displayed in the terminal upon execution
 
 ## Initialization
 
